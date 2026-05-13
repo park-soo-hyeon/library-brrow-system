@@ -56,7 +56,7 @@ function App() {
       `}</style>
 
       <div className="app-container">
-        <h1 className="header">과제1) 박수현의 미니 도서 대출 시스템 v2</h1>
+        <h1 className="header">미니 도서 대출 시스템</h1>
 
         {/* 5. 검색 입력창 (UI) */}
         <input
